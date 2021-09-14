@@ -16,5 +16,14 @@
 }
 
 .parceiros{
-    background: #EFFBFB;
+    background: #00BFFF;
+}
+
+.servicos{
+    background: #BDBDBD;
+}
+
+.bg-footer{
+    background-color: black;
+    color: white;
 }
