@@ -28,10 +28,11 @@
 }
 
 .servicos{
-    background: #BDBDBD;
+    background: #e9f3d2;
 }
 
 .bg-footer{
     background-color: black;
     color: white;
+    padding: 10px;
 }
