@@ -3,11 +3,19 @@
 }
 
 .navbar{
-    background-color: #FACC2E;
+    background-color: #20201f;
+}
+
+.nav-link{
+    color: orange;
+}
+
+.logo{
+    margin-left: 10px;
 }
 
 .quem-somos{
-    background: #F7F8E0;
+    background: #bebebd;
 }
 
 .margin{
@@ -15,8 +23,8 @@
     padding-bottom: 50px ;
 }
 
-.parceiros{
-    background: #00BFFF;
+.contatos{
+    background: hsl(196, 44%, 85%);
 }
 
 .servicos{
